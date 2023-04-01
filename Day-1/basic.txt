@@ -1,0 +1,25 @@
+#for new file printing in python.
+#=============================
+
+print ("Hello world!\nHello World!\nHelloworld")
+
+#concatination of two string:
+==================================
+print ("hello "+"pranita")
+
+=========================
+Input () function
+
+it act like a print function, only difference is it is waiting for user input to get on prompt 
+whereas print pun directly print the output but input fun wait and get the input data and deliver it to code (that means user input replace the code)
+
+example:
+print ("Hello "+ input("what is your name ?")+"!")
+
+first it will take input from user as what is your name and then replace it with in input fun and print hello pranita.
+
+================================
+
+program to calculate the length of character.
+s=input("What is your name ?")
+print(len(s))
