@@ -1,0 +1,14 @@
+#to delete git added file
+git restore --staged band-name-generator.py basic.txt newline.py  
+
+#to change the git user name
+git config user.name "Pranita Singh"
+
+#to chnage emailid
+git config user.email singh.pranita53@gmail.com
+
+#always check the git log file
+git log
+
+#check the git config
+vi .git/config
