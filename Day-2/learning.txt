@@ -1,0 +1,26 @@
+we are going to focus on 
+- datatype 
+- numbers
+- operations
+- type conversion
+- f-string
+
+#Data type - print 1st character of data-type
+print("HELLO"[0])
+
+#Integar
+print(123+4567)
+
+123,5,00 == 123_5_00      #specially in UK and US , is replaced by _  
+
+#to add any data type 1st we need to define the type of data for example 
+#If we have a int data type store in variable then we have to define it .
+
+first_name=4
+second_num = 5
+print(int(first_name)+int(second_num))
+
+#we cant concatinate the int type data type with strings 1st we need to convert it into string then we can concatinate.
+==============================
+#Example
+print("the two digit are"+str(first_name) + str(second_num)")
