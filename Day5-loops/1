@@ -1,0 +1,12 @@
+import string
+alphabet = []
+xx = string.ascii_lowercase[:]
+yy = string.ascii_uppercase[:]
+print(yy)
+print(xx)
+
+for i in xx:
+    append.alphabet()
+
+    
+    
